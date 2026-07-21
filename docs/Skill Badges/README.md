@@ -16,10 +16,10 @@ This repository contains Google Cloud Arcade resources, Skill Badges, Challenge 
 
 | Category | Link |
 |----------|------|
-| 📖 Skill Badge Index | docs/skill-badges/README.md |
-| 🔴 Advanced Skill Badges | docs/skill-badges/advanced-skill-badges.md |
-| 🟡 Intermediate Skill Badges | docs/skill-badges/intermediate-skill-badges.md |
-| 🟢 Beginner Skill Badges | docs/skill-badges/beginner-skill-badges.md |
+| 📖 Skill Badge Index | [Open](README.md) |
+| 🔴 Advanced Skill Badges | [Open](advanced-skill-badges.md) |
+| 🟡 Intermediate Skill Badges | [Open](intermediate-skill-badges.md) |
+| 🟢 Beginner Skill Badges | [Open](beginner-skill-badges.md) |
 
 ---
 
@@ -27,7 +27,7 @@ This repository contains Google Cloud Arcade resources, Skill Badges, Challenge 
 
 | Month | Link |
 |--------|------|
-| July 2026 | docs/arcade-games/july-2026.md |
+| July 2026 | [Open](july-2026.md) |
 
 ---
 

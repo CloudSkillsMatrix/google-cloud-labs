@@ -1,121 +1,58 @@
-# ☁️ Google Cloud Skill Badges
+# ☁️ Google Cloud Arcade
 
-Welcome to the **Cloud Skills Matrix** Google Cloud Skill Badges collection.
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-4285F4?logo=googlecloud&logoColor=white)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
 
-This section contains **all Google Cloud Skill Badges** categorized by difficulty to help you easily find the badge you're looking for.
+Welcome to the **Cloud Skills Matrix** Google Cloud Arcade repository.
 
----
-
-## 📊 Skill Badge Statistics
-
-| Category | Total |
-|:---------|------:|
-| 🔴 Advanced | 14 |
-| 🟡 Intermediate | 34 |
-| 🟢 Beginner | 47 |
-| **Total** | **95** |
+This repository contains Google Cloud Arcade resources, Skill Badges, Challenge Labs, Arcade Games, and learning resources.
 
 ---
 
-# 📚 Browse Skill Badges
+# 📚 Documentation
 
-## 🔴 Advanced Skill Badges
+## 🏅 Skill Badges
 
-Enterprise-level and expert Google Cloud Skill Badges.
-
-**Topics include:**
-- BigQuery
-- Vertex AI
-- Cloud Run
-- GKE
-- DevOps
-- Security
-- Machine Learning
-- Data Engineering
-
-➡️ **[View Advanced Skill Badges](advanced-skill-badges.md)**
+| Category | Link |
+|----------|------|
+| 📖 Skill Badge Index | docs/skill-badges/README.md |
+| 🔴 Advanced Skill Badges | docs/skill-badges/advanced-skill-badges.md |
+| 🟡 Intermediate Skill Badges | docs/skill-badges/intermediate-skill-badges.md |
+| 🟢 Beginner Skill Badges | docs/skill-badges/beginner-skill-badges.md |
 
 ---
 
-## 🟡 Intermediate Skill Badges
+## 🎮 Arcade Games
 
-Hands-on Google Cloud Skill Badges for intermediate learners.
-
-**Topics include:**
-- Compute Engine
-- Cloud Storage
-- Pub/Sub
-- Networking
-- Databases
-- APIs
-- Kubernetes
-- IAM
-
-➡️ **[View Intermediate Skill Badges](intermediate-skill-badges.md)**
+| Month | Link |
+|--------|------|
+| July 2026 | docs/arcade-games/july-2026.md |
 
 ---
 
-## 🟢 Beginner Skill Badges
+## 🚀 Coming Soon
 
-Perfect for developers starting their Google Cloud journey.
-
-**Topics include:**
-- Google Cloud Fundamentals
-- Compute Engine Basics
-- Cloud Storage
-- IAM
-- Cloud Functions
-- BigQuery Basics
-- Networking Basics
-
-➡️ **[View Beginner Skill Badges](beginner-skill-badges.md)**
+- ✅ Challenge Labs
+- ✅ Lab-Free Courses
+- ✅ Arcade Trivia
+- ✅ YouTube Resources
+- ✅ Google Cloud Notes
+- ✅ Practice Questions
 
 ---
 
-# 📌 How to Use
+## 📺 Cloud Skills Matrix
 
-1. Select your preferred difficulty level.
-2. Click the Skill Badge.
-3. Open the official Google Cloud Skills Boost page.
-4. Complete the lab.
-5. Earn your badge.
-
----
-
-# 🏆 Skill Badge Progress
-
-| Difficulty | Status |
-|:-----------|:------:|
-| 🔴 Advanced | 📚 Available |
-| 🟡 Intermediate | 📚 Available |
-| 🟢 Beginner | 📚 Available |
-
----
-
-# 📺 Cloud Skills Matrix
-
-Learn Google Cloud with step-by-step tutorials.
-
-🔗 **YouTube**
-
+YouTube:
 https://www.youtube.com/@CloudSkillsMatrix
 
 ---
 
-# ☁️ Official Google Cloud
-
-Google Cloud Skills Boost
+## ☁️ Official Google Cloud Skills Boost
 
 https://www.cloudskillsboost.google
 
 ---
 
-## 📜 License
-
-This repository is intended for educational purposes.
-
-Google Cloud™, Google Cloud Skills Boost™, and related trademarks belong to Google LLC.
-
----
-
-⭐ If this repository helps you, don't forget to **Star ⭐ the repository**.
+⭐ If this repository helps you, please consider starring it.

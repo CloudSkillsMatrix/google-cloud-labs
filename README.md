@@ -8,6 +8,7 @@ Google Cloud Arcade resources, Skill Badges, Challenge Labs, Arcade Games, Lab-F
 
 [![YouTube](https://img.shields.io/badge/YouTube-Cloud%20Skills%20Matrix-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CloudSkillsMatrix)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 </div>
 
@@ -36,25 +37,65 @@ Google Cloud Arcade resources, Skill Badges, Challenge Labs, Arcade Games, Lab-F
 
 ## 🚀 Challenge Labs
 
-| Category | Status |
-|----------|--------|
-| 📚 Challenge Labs | 🚧 Coming Soon |
+| Category | Open |
+|----------|------|
+| 📚 Challenge Labs | [Open](docs/challenge-labs/README.md) |
 
 ---
 
 ## 📖 Lab-Free Courses
 
-| Category | Status |
-|----------|--------|
-| 📚 Lab-Free Courses | 🚧 Coming Soon |
+| Category | Open |
+|----------|------|
+| 📚 Lab-Free Courses | [Open](docs/lab-free-courses/README.md) |
 
 ---
 
 ## 🧠 Arcade Trivia
 
-| Category | Status |
-|----------|--------|
-| ❓ Arcade Trivia | 🚧 Coming Soon |
+| Category | Open |
+|----------|------|
+| ❓ Arcade Trivia | [Open](docs/arcade-trivia/README.md) |
+
+---
+
+## 📚 Resources
+
+| Category | Open |
+|----------|------|
+| 📖 Learning Resources | [Open](docs/resources/README.md) |
+
+---
+
+## 📝 Notes
+
+| Category | Open |
+|----------|------|
+| 📝 Google Cloud Notes | [Open](docs/notes/README.md) |
+
+---
+
+## 🛣️ Roadmaps
+
+| Category | Open |
+|----------|------|
+| 🚀 Learning Roadmaps | [Open](docs/roadmaps/README.md) |
+
+---
+
+## ❓ FAQ
+
+| Category | Open |
+|----------|------|
+| ❓ Frequently Asked Questions | [Open](docs/faq/README.md) |
+
+---
+
+## 🏆 Certifications
+
+| Category | Open |
+|----------|------|
+| 🏅 Certifications | [Open](docs/certifications/README.md) |
 
 ---
 
@@ -63,9 +104,11 @@ Google Cloud Arcade resources, Skill Badges, Challenge Labs, Arcade Games, Lab-F
 - ☁️ Google Cloud Skill Badges
 - 🎮 Google Cloud Arcade Games
 - 🚀 Challenge Labs
-- 📚 Lab-Free Courses
-- 📖 Learning Resources
+- 📖 Lab-Free Courses
 - 📝 Notes & Documentation
+- 📚 Learning Resources
+- 🛣️ Roadmaps
+- 🏅 Certifications
 - 🔄 Regular Updates
 
 ---
@@ -80,7 +123,7 @@ https://www.youtube.com/@CloudSkillsMatrix
 
 # ☁️ Google Cloud Skills Boost
 
-🌐 Official Website
+🌐 **Official Website**
 
 https://www.cloudskillsboost.google
 
@@ -90,7 +133,11 @@ https://www.cloudskillsboost.google
 
 Contributions, corrections, and suggestions are welcome.
 
-If you find any issue or outdated information, feel free to open an Issue or submit a Pull Request.
+If you find any issue or outdated information, feel free to:
+
+- 🐛 Open an Issue
+- 🚀 Submit a Pull Request
+- 💡 Share Suggestions
 
 ---
 
@@ -98,18 +145,18 @@ If you find any issue or outdated information, feel free to open an Issue or sub
 
 If this repository helps you:
 
-⭐ Star the repository
+⭐ Star this repository
 
-📢 Share it with other Google Cloud learners
+📢 Share it with fellow Google Cloud learners
 
 🎥 Subscribe to **Cloud Skills Matrix**
 
 ---
 
-<p align="center">
+<div align="center">
 
-**Made with ❤️ by Cloud Skills Matrix**
+## 💙 Made with ❤️ by Cloud Skills Matrix
 
-**Learn • Build • Earn • Grow**
+### Learn • Build • Earn • Grow
 
-</p>
+</div>

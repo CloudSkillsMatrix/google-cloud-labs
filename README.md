@@ -39,7 +39,7 @@ Google Cloud Arcade resources, Skill Badges, Challenge Labs, Arcade Games, Lab-F
 
 | Category | Open |
 |----------|------|
-| 📚 Challenge Labs | [Open](docs/challenge-labs/README.md) |
+| 📚 Challenge Labs | [Open](docs/challenge-labs/readme.md) |
 
 ---
 
@@ -47,15 +47,8 @@ Google Cloud Arcade resources, Skill Badges, Challenge Labs, Arcade Games, Lab-F
 
 | Category | Open |
 |----------|------|
-| 📚 Lab-Free Courses | [Open](docs/lab-free-courses/README.md) |
+| 📚 Lab-Free Courses | [Open](docs/lab-free-courses/readme.md) |
 
----
-
-## 🧠 Arcade Trivia
-
-| Category | Open |
-|----------|------|
-| ❓ Arcade Trivia | [Open](docs/arcade-trivia/README.md) |
 
 ---
 
@@ -63,7 +56,7 @@ Google Cloud Arcade resources, Skill Badges, Challenge Labs, Arcade Games, Lab-F
 
 | Category | Open |
 |----------|------|
-| 📖 Learning Resources | [Open](docs/resources/README.md) |
+| 📖 Learning Resources | [Open](docs/resources/readme.md) |
 
 ---
 
@@ -71,7 +64,7 @@ Google Cloud Arcade resources, Skill Badges, Challenge Labs, Arcade Games, Lab-F
 
 | Category | Open |
 |----------|------|
-| 📝 Google Cloud Notes | [Open](docs/notes/README.md) |
+| 📝 Google Cloud Notes | [Open](docs/notes/readme.md) |
 
 ---
 
@@ -79,7 +72,7 @@ Google Cloud Arcade resources, Skill Badges, Challenge Labs, Arcade Games, Lab-F
 
 | Category | Open |
 |----------|------|
-| 🚀 Learning Roadmaps | [Open](docs/roadmaps/README.md) |
+| 🚀 Learning Roadmaps | [Open](docs/roadmaps/readme.md) |
 
 ---
 
@@ -87,7 +80,7 @@ Google Cloud Arcade resources, Skill Badges, Challenge Labs, Arcade Games, Lab-F
 
 | Category | Open |
 |----------|------|
-| ❓ Frequently Asked Questions | [Open](docs/faq/README.md) |
+| ❓ Frequently Asked Questions | [Open](docs/faq/readme.md) |
 
 ---
 
@@ -95,7 +88,7 @@ Google Cloud Arcade resources, Skill Badges, Challenge Labs, Arcade Games, Lab-F
 
 | Category | Open |
 |----------|------|
-| 🏅 Certifications | [Open](docs/certifications/README.md) |
+| 🏅 Certifications | [Open](docs/certifications/readme.md) |
 
 ---
 
